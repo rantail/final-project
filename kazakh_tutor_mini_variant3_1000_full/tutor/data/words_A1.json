@@ -1,0 +1,2192 @@
+[
+  {
+    "prompt": "car",
+    "answer": "көлік",
+    "level": "A1"
+  },
+  {
+    "prompt": "taxi",
+    "answer": "такси",
+    "level": "A1"
+  },
+  {
+    "prompt": "station",
+    "answer": "бекет",
+    "level": "A1"
+  },
+  {
+    "prompt": "airport",
+    "answer": "әуежай",
+    "level": "A1"
+  },
+  {
+    "prompt": "water",
+    "answer": "су",
+    "level": "A1"
+  },
+  {
+    "prompt": "tea",
+    "answer": "шай",
+    "level": "A1"
+  },
+  {
+    "prompt": "coffee",
+    "answer": "кофе",
+    "level": "A1"
+  },
+  {
+    "prompt": "milk",
+    "answer": "сүт",
+    "level": "A1"
+  },
+  {
+    "prompt": "bread",
+    "answer": "нан",
+    "level": "A1"
+  },
+  {
+    "prompt": "rice",
+    "answer": "күріш",
+    "level": "A1"
+  },
+  {
+    "prompt": "meat",
+    "answer": "ет",
+    "level": "A1"
+  },
+  {
+    "prompt": "fish",
+    "answer": "балық",
+    "level": "A1"
+  },
+  {
+    "prompt": "chicken",
+    "answer": "тауық",
+    "level": "A1"
+  },
+  {
+    "prompt": "salt",
+    "answer": "тұз",
+    "level": "A1"
+  },
+  {
+    "prompt": "sugar",
+    "answer": "қант",
+    "level": "A1"
+  },
+  {
+    "prompt": "apple",
+    "answer": "алма",
+    "level": "A1"
+  },
+  {
+    "prompt": "banana",
+    "answer": "банан",
+    "level": "A1"
+  },
+  {
+    "prompt": "orange",
+    "answer": "апельсин",
+    "level": "A1"
+  },
+  {
+    "prompt": "tomato",
+    "answer": "қызанақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "potato",
+    "answer": "картоп",
+    "level": "A1"
+  },
+  {
+    "prompt": "onion",
+    "answer": "пияз",
+    "level": "A1"
+  },
+  {
+    "prompt": "time",
+    "answer": "уақыт",
+    "level": "A1"
+  },
+  {
+    "prompt": "today",
+    "answer": "бүгін",
+    "level": "A1"
+  },
+  {
+    "prompt": "tomorrow",
+    "answer": "ертең",
+    "level": "A1"
+  },
+  {
+    "prompt": "yesterday",
+    "answer": "кеше",
+    "level": "A1"
+  },
+  {
+    "prompt": "morning",
+    "answer": "таң",
+    "level": "A1"
+  },
+  {
+    "prompt": "day",
+    "answer": "күн",
+    "level": "A1"
+  },
+  {
+    "prompt": "evening",
+    "answer": "кеш",
+    "level": "A1"
+  },
+  {
+    "prompt": "night",
+    "answer": "түн",
+    "level": "A1"
+  },
+  {
+    "prompt": "week",
+    "answer": "апта",
+    "level": "A1"
+  },
+  {
+    "prompt": "month",
+    "answer": "ай",
+    "level": "A1"
+  },
+  {
+    "prompt": "year",
+    "answer": "жыл",
+    "level": "A1"
+  },
+  {
+    "prompt": "to be",
+    "answer": "болу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to go",
+    "answer": "бару",
+    "level": "A1"
+  },
+  {
+    "prompt": "to come",
+    "answer": "келу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to see",
+    "answer": "көру",
+    "level": "A1"
+  },
+  {
+    "prompt": "to know",
+    "answer": "білу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to want",
+    "answer": "қалау",
+    "level": "A1"
+  },
+  {
+    "prompt": "to eat",
+    "answer": "жеу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to drink",
+    "answer": "ішу",
+    "level": "A1"
+  },
+  {
+    "prompt": "January",
+    "answer": "қаңтар",
+    "level": "A1"
+  },
+  {
+    "prompt": "February",
+    "answer": "ақпан",
+    "level": "A1"
+  },
+  {
+    "prompt": "March",
+    "answer": "наурыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "April",
+    "answer": "сәуір",
+    "level": "A1"
+  },
+  {
+    "prompt": "May",
+    "answer": "мамыр",
+    "level": "A1"
+  },
+  {
+    "prompt": "June",
+    "answer": "маусым",
+    "level": "A1"
+  },
+  {
+    "prompt": "July",
+    "answer": "шілде",
+    "level": "A1"
+  },
+  {
+    "prompt": "August",
+    "answer": "тамыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "September",
+    "answer": "қыркүйек",
+    "level": "A1"
+  },
+  {
+    "prompt": "October",
+    "answer": "қазан",
+    "level": "A1"
+  },
+  {
+    "prompt": "November",
+    "answer": "қараша",
+    "level": "A1"
+  },
+  {
+    "prompt": "December",
+    "answer": "желтоқсан",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 11",
+    "answer": "он бір",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 12",
+    "answer": "он екі",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 13",
+    "answer": "он үш",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 14",
+    "answer": "он төрт",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 15",
+    "answer": "он бес",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 16",
+    "answer": "он алты",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 17",
+    "answer": "он жеті",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 18",
+    "answer": "он сегіз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 19",
+    "answer": "он тоғыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 21",
+    "answer": "жиырма бір",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 22",
+    "answer": "жиырма екі",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 23",
+    "answer": "жиырма үш",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 24",
+    "answer": "жиырма төрт",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 25",
+    "answer": "жиырма бес",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 26",
+    "answer": "жиырма алты",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 27",
+    "answer": "жиырма жеті",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 28",
+    "answer": "жиырма сегіз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 29",
+    "answer": "жиырма тоғыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 30",
+    "answer": "отыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 31",
+    "answer": "отыз бір",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 32",
+    "answer": "отыз екі",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 33",
+    "answer": "отыз үш",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 34",
+    "answer": "отыз төрт",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 35",
+    "answer": "отыз бес",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 36",
+    "answer": "отыз алты",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 37",
+    "answer": "отыз жеті",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 38",
+    "answer": "отыз сегіз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 39",
+    "answer": "отыз тоғыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 40",
+    "answer": "қырық",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 41",
+    "answer": "қырық бір",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 42",
+    "answer": "қырық екі",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 43",
+    "answer": "қырық үш",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 44",
+    "answer": "қырық төрт",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 45",
+    "answer": "қырық бес",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 46",
+    "answer": "қырық алты",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 47",
+    "answer": "қырық жеті",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 48",
+    "answer": "қырық сегіз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 49",
+    "answer": "қырық тоғыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "number 50",
+    "answer": "елу",
+    "level": "A1"
+  },
+  {
+    "prompt": "dog",
+    "answer": "ит",
+    "level": "A1"
+  },
+  {
+    "prompt": "cat",
+    "answer": "мысық",
+    "level": "A1"
+  },
+  {
+    "prompt": "horse",
+    "answer": "жылқы",
+    "level": "A1"
+  },
+  {
+    "prompt": "cow",
+    "answer": "сиыр",
+    "level": "A1"
+  },
+  {
+    "prompt": "sheep",
+    "answer": "қой",
+    "level": "A1"
+  },
+  {
+    "prompt": "goat",
+    "answer": "ешкі",
+    "level": "A1"
+  },
+  {
+    "prompt": "camel",
+    "answer": "түйе",
+    "level": "A1"
+  },
+  {
+    "prompt": "bird",
+    "answer": "құс",
+    "level": "A1"
+  },
+  {
+    "prompt": "wolf",
+    "answer": "қасқыр",
+    "level": "A1"
+  },
+  {
+    "prompt": "fox",
+    "answer": "түлкі",
+    "level": "A1"
+  },
+  {
+    "prompt": "bear",
+    "answer": "аю",
+    "level": "A1"
+  },
+  {
+    "prompt": "head",
+    "answer": "бас",
+    "level": "A1"
+  },
+  {
+    "prompt": "hand",
+    "answer": "қол",
+    "level": "A1"
+  },
+  {
+    "prompt": "leg",
+    "answer": "аяқ",
+    "level": "A1"
+  },
+  {
+    "prompt": "eye",
+    "answer": "көз",
+    "level": "A1"
+  },
+  {
+    "prompt": "ear",
+    "answer": "құлақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "nose",
+    "answer": "мұрын",
+    "level": "A1"
+  },
+  {
+    "prompt": "mouth",
+    "answer": "ауыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "tooth",
+    "answer": "тіс",
+    "level": "A1"
+  },
+  {
+    "prompt": "hair",
+    "answer": "шаш",
+    "level": "A1"
+  },
+  {
+    "prompt": "heart",
+    "answer": "жүрек",
+    "level": "A1"
+  },
+  {
+    "prompt": "shirt",
+    "answer": "көйлек",
+    "level": "A1"
+  },
+  {
+    "prompt": "pants",
+    "answer": "шалбар",
+    "level": "A1"
+  },
+  {
+    "prompt": "shoes",
+    "answer": "аяқ киім",
+    "level": "A1"
+  },
+  {
+    "prompt": "jacket",
+    "answer": "күртке",
+    "level": "A1"
+  },
+  {
+    "prompt": "hat",
+    "answer": "бас киім",
+    "level": "A1"
+  },
+  {
+    "prompt": "dress",
+    "answer": "көйлек",
+    "level": "A1"
+  },
+  {
+    "prompt": "bag",
+    "answer": "сөмке",
+    "level": "A1"
+  },
+  {
+    "prompt": "sun",
+    "answer": "күн",
+    "level": "A1"
+  },
+  {
+    "prompt": "moon",
+    "answer": "ай",
+    "level": "A1"
+  },
+  {
+    "prompt": "star",
+    "answer": "жұлдыз",
+    "level": "A1"
+  },
+  {
+    "prompt": "sky",
+    "answer": "аспан",
+    "level": "A1"
+  },
+  {
+    "prompt": "rain",
+    "answer": "жаңбыр",
+    "level": "A1"
+  },
+  {
+    "prompt": "snow",
+    "answer": "қар",
+    "level": "A1"
+  },
+  {
+    "prompt": "wind",
+    "answer": "жел",
+    "level": "A1"
+  },
+  {
+    "prompt": "river",
+    "answer": "өзен",
+    "level": "A1"
+  },
+  {
+    "prompt": "lake",
+    "answer": "көл",
+    "level": "A1"
+  },
+  {
+    "prompt": "mountain",
+    "answer": "тау",
+    "level": "A1"
+  },
+  {
+    "prompt": "tree",
+    "answer": "ағаш",
+    "level": "A1"
+  },
+  {
+    "prompt": "flower",
+    "answer": "гүл",
+    "level": "A1"
+  },
+  {
+    "prompt": "grass",
+    "answer": "шөп",
+    "level": "A1"
+  },
+  {
+    "prompt": "happy",
+    "answer": "қуанышты",
+    "level": "A1"
+  },
+  {
+    "prompt": "sad",
+    "answer": "қайғылы",
+    "level": "A1"
+  },
+  {
+    "prompt": "angry",
+    "answer": "ашулы",
+    "level": "A1"
+  },
+  {
+    "prompt": "tired",
+    "answer": "шаршаған",
+    "level": "A1"
+  },
+  {
+    "prompt": "hungry",
+    "answer": "аш",
+    "level": "A1"
+  },
+  {
+    "prompt": "thirsty",
+    "answer": "шөлдеген",
+    "level": "A1"
+  },
+  {
+    "prompt": "left",
+    "answer": "сол",
+    "level": "A1"
+  },
+  {
+    "prompt": "right",
+    "answer": "оң",
+    "level": "A1"
+  },
+  {
+    "prompt": "straight",
+    "answer": "тура",
+    "level": "A1"
+  },
+  {
+    "prompt": "north",
+    "answer": "солтүстік",
+    "level": "A1"
+  },
+  {
+    "prompt": "south",
+    "answer": "оңтүстік",
+    "level": "A1"
+  },
+  {
+    "prompt": "east",
+    "answer": "шығыс",
+    "level": "A1"
+  },
+  {
+    "prompt": "west",
+    "answer": "батыс",
+    "level": "A1"
+  },
+  {
+    "prompt": "to work",
+    "answer": "жұмыс істеу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to study",
+    "answer": "оқу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to play",
+    "answer": "ойнау",
+    "level": "A1"
+  },
+  {
+    "prompt": "to run",
+    "answer": "жүгіру",
+    "level": "A1"
+  },
+  {
+    "prompt": "to walk",
+    "answer": "жүру",
+    "level": "A1"
+  },
+  {
+    "prompt": "to sit",
+    "answer": "отыру",
+    "level": "A1"
+  },
+  {
+    "prompt": "to stand",
+    "answer": "тұру",
+    "level": "A1"
+  },
+  {
+    "prompt": "to open",
+    "answer": "ашу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to close",
+    "answer": "жабу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to start",
+    "answer": "бастау",
+    "level": "A1"
+  },
+  {
+    "prompt": "to finish",
+    "answer": "аяқтау",
+    "level": "A1"
+  },
+  {
+    "prompt": "to choose",
+    "answer": "таңдау",
+    "level": "A1"
+  },
+  {
+    "prompt": "to think",
+    "answer": "ойлау",
+    "level": "A1"
+  },
+  {
+    "prompt": "to remember",
+    "answer": "есте сақтау",
+    "level": "A1"
+  },
+  {
+    "prompt": "to forget",
+    "answer": "ұмыту",
+    "level": "A1"
+  },
+  {
+    "prompt": "to call",
+    "answer": "қоңырау шалу",
+    "level": "A1"
+  },
+  {
+    "prompt": "to wait",
+    "answer": "күту",
+    "level": "A1"
+  },
+  {
+    "prompt": "to cook",
+    "answer": "тамақ пісіру",
+    "level": "A1"
+  },
+  {
+    "prompt": "to clean",
+    "answer": "тазалау",
+    "level": "A1"
+  },
+  {
+    "prompt": "city center",
+    "answer": "қала орталығы",
+    "level": "A1"
+  },
+  {
+    "prompt": "market",
+    "answer": "нарық",
+    "level": "A1"
+  },
+  {
+    "prompt": "shop",
+    "answer": "дүкен",
+    "level": "A1"
+  },
+  {
+    "prompt": "restaurant",
+    "answer": "мейрамхана",
+    "level": "A1"
+  },
+  {
+    "prompt": "hospital",
+    "answer": "аурухана",
+    "level": "A1"
+  },
+  {
+    "prompt": "pharmacy",
+    "answer": "дәріхана",
+    "level": "A1"
+  },
+  {
+    "prompt": "bank",
+    "answer": "банк",
+    "level": "A1"
+  },
+  {
+    "prompt": "police",
+    "answer": "полиция",
+    "level": "A1"
+  },
+  {
+    "prompt": "library",
+    "answer": "кітапхана",
+    "level": "A1"
+  },
+  {
+    "prompt": "museum",
+    "answer": "мұражай",
+    "level": "A1"
+  },
+  {
+    "prompt": "park",
+    "answer": "саябақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "cinema",
+    "answer": "кинотеатр",
+    "level": "A1"
+  },
+  {
+    "prompt": "ticket",
+    "answer": "билет",
+    "level": "A1"
+  },
+  {
+    "prompt": "passport",
+    "answer": "паспорт",
+    "level": "A1"
+  },
+  {
+    "prompt": "document",
+    "answer": "құжат",
+    "level": "A1"
+  },
+  {
+    "prompt": "address",
+    "answer": "мекенжай",
+    "level": "A1"
+  },
+  {
+    "prompt": "price",
+    "answer": "баға",
+    "level": "A1"
+  },
+  {
+    "prompt": "discount",
+    "answer": "жеңілдік",
+    "level": "A1"
+  },
+  {
+    "prompt": "cash",
+    "answer": "қолма-қол ақша",
+    "level": "A1"
+  },
+  {
+    "prompt": "card",
+    "answer": "карта",
+    "level": "A1"
+  },
+  {
+    "prompt": "question",
+    "answer": "сұрақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "answer",
+    "answer": "жауап",
+    "level": "A1"
+  },
+  {
+    "prompt": "example",
+    "answer": "мысал",
+    "level": "A1"
+  },
+  {
+    "prompt": "rule",
+    "answer": "ереже",
+    "level": "A1"
+  },
+  {
+    "prompt": "security",
+    "answer": "қауіпсіздік",
+    "level": "A1"
+  },
+  {
+    "prompt": "password",
+    "answer": "құпиясөз",
+    "level": "A1"
+  },
+  {
+    "prompt": "account",
+    "answer": "аккаунт",
+    "level": "A1"
+  },
+  {
+    "prompt": "client",
+    "answer": "клиент",
+    "level": "A1"
+  },
+  {
+    "prompt": "table (db)",
+    "answer": "кесте",
+    "level": "A1"
+  },
+  {
+    "prompt": "column",
+    "answer": "баған",
+    "level": "A1"
+  },
+  {
+    "prompt": "row",
+    "answer": "жол",
+    "level": "A1"
+  },
+  {
+    "prompt": "file",
+    "answer": "файл",
+    "level": "A1"
+  },
+  {
+    "prompt": "folder",
+    "answer": "қапшық",
+    "level": "A1"
+  },
+  {
+    "prompt": "upload",
+    "answer": "жүктеу",
+    "level": "A1"
+  },
+  {
+    "prompt": "download",
+    "answer": "жүктеп алу",
+    "level": "A1"
+  },
+  {
+    "prompt": "easy",
+    "answer": "оңай",
+    "level": "A1"
+  },
+  {
+    "prompt": "difficult",
+    "answer": "қиын",
+    "level": "A1"
+  },
+  {
+    "prompt": "possible",
+    "answer": "мүмкін",
+    "level": "A1"
+  },
+  {
+    "prompt": "impossible",
+    "answer": "мүмкін емес",
+    "level": "A1"
+  },
+  {
+    "prompt": "correct",
+    "answer": "дұрыс",
+    "level": "A1"
+  },
+  {
+    "prompt": "wrong",
+    "answer": "қате",
+    "level": "A1"
+  },
+  {
+    "prompt": "ready",
+    "answer": "дайын",
+    "level": "A1"
+  },
+  {
+    "prompt": "quickly",
+    "answer": "тез",
+    "level": "A1"
+  },
+  {
+    "prompt": "slowly",
+    "answer": "баяу",
+    "level": "A1"
+  },
+  {
+    "prompt": "always",
+    "answer": "әрқашан",
+    "level": "A1"
+  },
+  {
+    "prompt": "never",
+    "answer": "ешқашан",
+    "level": "A1"
+  },
+  {
+    "prompt": "sometimes",
+    "answer": "кейде",
+    "level": "A1"
+  },
+  {
+    "prompt": "because",
+    "answer": "өйткені",
+    "level": "A1"
+  },
+  {
+    "prompt": "therefore",
+    "answer": "сондықтан",
+    "level": "A1"
+  },
+  {
+    "prompt": "but",
+    "answer": "бірақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "and",
+    "answer": "және",
+    "level": "A1"
+  },
+  {
+    "prompt": "or",
+    "answer": "немесе",
+    "level": "A1"
+  },
+  {
+    "prompt": "if",
+    "answer": "егер",
+    "level": "A1"
+  },
+  {
+    "prompt": "morning (greeting)",
+    "answer": "қайырлы таң",
+    "level": "A1"
+  },
+  {
+    "prompt": "good day",
+    "answer": "қайырлы күн",
+    "level": "A1"
+  },
+  {
+    "prompt": "strong",
+    "answer": "күшті",
+    "level": "A1"
+  },
+  {
+    "prompt": "weak",
+    "answer": "әлсіз",
+    "level": "A1"
+  },
+  {
+    "prompt": "early",
+    "answer": "ерте",
+    "level": "A1"
+  },
+  {
+    "prompt": "late",
+    "answer": "кеш",
+    "level": "A1"
+  },
+  {
+    "prompt": "clean",
+    "answer": "таза",
+    "level": "A1"
+  },
+  {
+    "prompt": "dirty",
+    "answer": "лас",
+    "level": "A1"
+  },
+  {
+    "prompt": "quiet",
+    "answer": "тыныш",
+    "level": "A1"
+  },
+  {
+    "prompt": "loud",
+    "answer": "қатты",
+    "level": "A1"
+  },
+  {
+    "prompt": "interesting",
+    "answer": "қызықты",
+    "level": "A1"
+  },
+  {
+    "prompt": "boring",
+    "answer": "жалықтыратын",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need water",
+    "answer": "Маған су керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need time",
+    "answer": "Маған уақыт керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need money",
+    "answer": "Маған ақша керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need ticket",
+    "answer": "Маған билет керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need doctor",
+    "answer": "Маған дәрігер керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need phone",
+    "answer": "Маған телефон керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need internet",
+    "answer": "Маған интернет керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need food",
+    "answer": "Маған тағам керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "I need rest",
+    "answer": "Маған демалыс керек",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 1",
+    "answer": "1-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 2",
+    "answer": "2-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 3",
+    "answer": "3-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 4",
+    "answer": "4-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 5",
+    "answer": "5-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 6",
+    "answer": "6-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 7",
+    "answer": "7-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 8",
+    "answer": "8-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 9",
+    "answer": "9-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 10",
+    "answer": "10-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 11",
+    "answer": "11-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 12",
+    "answer": "12-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 13",
+    "answer": "13-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 14",
+    "answer": "14-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 15",
+    "answer": "15-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 16",
+    "answer": "16-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 17",
+    "answer": "17-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 18",
+    "answer": "18-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 19",
+    "answer": "19-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 20",
+    "answer": "20-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 21",
+    "answer": "21-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 22",
+    "answer": "22-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 23",
+    "answer": "23-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 24",
+    "answer": "24-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 25",
+    "answer": "25-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 26",
+    "answer": "26-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 27",
+    "answer": "27-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 28",
+    "answer": "28-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 29",
+    "answer": "29-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 30",
+    "answer": "30-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 31",
+    "answer": "31-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 32",
+    "answer": "32-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 33",
+    "answer": "33-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 34",
+    "answer": "34-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 35",
+    "answer": "35-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 36",
+    "answer": "36-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 37",
+    "answer": "37-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 38",
+    "answer": "38-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 39",
+    "answer": "39-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 40",
+    "answer": "40-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 41",
+    "answer": "41-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 42",
+    "answer": "42-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 43",
+    "answer": "43-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 44",
+    "answer": "44-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 45",
+    "answer": "45-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 46",
+    "answer": "46-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 47",
+    "answer": "47-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 48",
+    "answer": "48-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 49",
+    "answer": "49-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 50",
+    "answer": "50-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 51",
+    "answer": "51-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 52",
+    "answer": "52-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 53",
+    "answer": "53-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 54",
+    "answer": "54-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 55",
+    "answer": "55-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 56",
+    "answer": "56-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 57",
+    "answer": "57-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 58",
+    "answer": "58-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 59",
+    "answer": "59-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 60",
+    "answer": "60-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 61",
+    "answer": "61-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 62",
+    "answer": "62-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 63",
+    "answer": "63-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 64",
+    "answer": "64-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 65",
+    "answer": "65-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 66",
+    "answer": "66-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 67",
+    "answer": "67-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 68",
+    "answer": "68-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 69",
+    "answer": "69-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 70",
+    "answer": "70-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 71",
+    "answer": "71-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 72",
+    "answer": "72-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 73",
+    "answer": "73-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 74",
+    "answer": "74-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 75",
+    "answer": "75-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 76",
+    "answer": "76-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 77",
+    "answer": "77-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 78",
+    "answer": "78-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 79",
+    "answer": "79-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 80",
+    "answer": "80-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 81",
+    "answer": "81-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 82",
+    "answer": "82-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 83",
+    "answer": "83-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 84",
+    "answer": "84-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 85",
+    "answer": "85-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 86",
+    "answer": "86-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 87",
+    "answer": "87-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 88",
+    "answer": "88-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 89",
+    "answer": "89-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 90",
+    "answer": "90-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 91",
+    "answer": "91-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 92",
+    "answer": "92-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 93",
+    "answer": "93-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 94",
+    "answer": "94-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 95",
+    "answer": "95-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 96",
+    "answer": "96-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 97",
+    "answer": "97-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 98",
+    "answer": "98-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 99",
+    "answer": "99-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 100",
+    "answer": "100-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 101",
+    "answer": "101-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 102",
+    "answer": "102-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 103",
+    "answer": "103-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 104",
+    "answer": "104-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 105",
+    "answer": "105-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 106",
+    "answer": "106-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 107",
+    "answer": "107-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 108",
+    "answer": "108-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 109",
+    "answer": "109-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 110",
+    "answer": "110-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 111",
+    "answer": "111-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 112",
+    "answer": "112-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 113",
+    "answer": "113-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 114",
+    "answer": "114-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 115",
+    "answer": "115-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 116",
+    "answer": "116-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 117",
+    "answer": "117-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 118",
+    "answer": "118-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 119",
+    "answer": "119-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 120",
+    "answer": "120-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 121",
+    "answer": "121-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 122",
+    "answer": "122-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 123",
+    "answer": "123-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 124",
+    "answer": "124-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 125",
+    "answer": "125-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 126",
+    "answer": "126-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 127",
+    "answer": "127-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 128",
+    "answer": "128-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 129",
+    "answer": "129-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 130",
+    "answer": "130-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 131",
+    "answer": "131-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 132",
+    "answer": "132-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 133",
+    "answer": "133-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 134",
+    "answer": "134-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 135",
+    "answer": "135-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 136",
+    "answer": "136-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 137",
+    "answer": "137-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 138",
+    "answer": "138-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 139",
+    "answer": "139-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 140",
+    "answer": "140-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 141",
+    "answer": "141-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 142",
+    "answer": "142-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 143",
+    "answer": "143-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 144",
+    "answer": "144-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 145",
+    "answer": "145-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 146",
+    "answer": "146-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 147",
+    "answer": "147-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 148",
+    "answer": "148-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 149",
+    "answer": "149-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 150",
+    "answer": "150-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 151",
+    "answer": "151-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 152",
+    "answer": "152-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 153",
+    "answer": "153-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 154",
+    "answer": "154-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 155",
+    "answer": "155-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 156",
+    "answer": "156-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 157",
+    "answer": "157-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 158",
+    "answer": "158-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 159",
+    "answer": "159-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 160",
+    "answer": "160-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 161",
+    "answer": "161-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 162",
+    "answer": "162-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 163",
+    "answer": "163-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 164",
+    "answer": "164-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 165",
+    "answer": "165-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 166",
+    "answer": "166-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 167",
+    "answer": "167-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 168",
+    "answer": "168-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 169",
+    "answer": "169-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 170",
+    "answer": "170-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 171",
+    "answer": "171-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 172",
+    "answer": "172-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 173",
+    "answer": "173-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 174",
+    "answer": "174-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 175",
+    "answer": "175-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 176",
+    "answer": "176-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 177",
+    "answer": "177-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 178",
+    "answer": "178-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 179",
+    "answer": "179-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 180",
+    "answer": "180-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 181",
+    "answer": "181-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 182",
+    "answer": "182-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 183",
+    "answer": "183-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 184",
+    "answer": "184-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 185",
+    "answer": "185-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 186",
+    "answer": "186-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 187",
+    "answer": "187-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 188",
+    "answer": "188-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 189",
+    "answer": "189-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 190",
+    "answer": "190-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 191",
+    "answer": "191-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 192",
+    "answer": "192-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 193",
+    "answer": "193-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 194",
+    "answer": "194-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 195",
+    "answer": "195-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 196",
+    "answer": "196-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 197",
+    "answer": "197-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 198",
+    "answer": "198-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 199",
+    "answer": "199-сабақ",
+    "level": "A1"
+  },
+  {
+    "prompt": "lesson 200",
+    "answer": "200-сабақ",
+    "level": "A1"
+  }
+]

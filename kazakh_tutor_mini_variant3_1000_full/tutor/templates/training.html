@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h1>Training</h1>
+  <p class="muted">Translate into Kazakh (word level: <b>{{ word.level }}</b>)</p>
+
+  <div class="big-word">{{ word.prompt }}</div>
+
+  <form method="post" action="{{ url_for('web.training_submit') }}">
+    <input type="hidden" name="word_id" value="{{ word.id }}">
+    <label>Your answer</label>
+    <input name="user_input" autofocus required>
+    <button class="btn" type="submit">Check</button>
+  </form>
+</div>
+{% endblock %}

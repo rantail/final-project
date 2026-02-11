@@ -1,0 +1,4 @@
+[2026-02-11 15:22:21,708] INFO in routes_web: Attempt user=1 word_id=1 correct=False
+[2026-02-11 15:22:48,184] INFO in routes_web: Attempt user=1 word_id=2 correct=True
+[2026-02-11 15:23:13,913] INFO in routes_web: Attempt user=1 word_id=1 correct=False
+[2026-02-11 15:37:37,282] INFO in routes_web: Attempt user=1 word_id=1 correct=False

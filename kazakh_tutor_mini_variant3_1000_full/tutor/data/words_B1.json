@@ -1,0 +1,82 @@
+[
+  {
+    "prompt": "science",
+    "answer": "ғылым",
+    "level": "B1"
+  },
+  {
+    "prompt": "technology",
+    "answer": "технология",
+    "level": "B1"
+  },
+  {
+    "prompt": "data",
+    "answer": "дерек",
+    "level": "B1"
+  },
+  {
+    "prompt": "information",
+    "answer": "ақпарат",
+    "level": "B1"
+  },
+  {
+    "prompt": "analysis",
+    "answer": "талдау",
+    "level": "B1"
+  },
+  {
+    "prompt": "result",
+    "answer": "нәтиже",
+    "level": "B1"
+  },
+  {
+    "prompt": "method",
+    "answer": "әдіс",
+    "level": "B1"
+  },
+  {
+    "prompt": "model",
+    "answer": "модель",
+    "level": "B1"
+  },
+  {
+    "prompt": "algorithm",
+    "answer": "алгоритм",
+    "level": "B1"
+  },
+  {
+    "prompt": "problem",
+    "answer": "мәселе",
+    "level": "B1"
+  },
+  {
+    "prompt": "solution",
+    "answer": "шешім",
+    "level": "B1"
+  },
+  {
+    "prompt": "project",
+    "answer": "жоба",
+    "level": "B1"
+  },
+  {
+    "prompt": "research",
+    "answer": "зерттеу",
+    "level": "B1"
+  },
+  {
+    "prompt": "experiment",
+    "answer": "тәжірибе",
+    "level": "B1"
+  },
+  {
+    "prompt": "presentation",
+    "answer": "презентация",
+    "level": "B1"
+  },
+  {
+    "prompt": "report",
+    "answer": "есеп",
+    "level": "B1"
+  }
+]

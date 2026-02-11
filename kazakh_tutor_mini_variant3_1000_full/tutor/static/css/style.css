@@ -1,0 +1,31 @@
+:root{--bg:#0b1020;--card:#121a33;--text:#e7e9f5;--muted:#aab0d6;--accent:#6ea8fe;}
+*{box-sizing:border-box;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;}
+body{margin:0;background:var(--bg);color:var(--text);}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;background:#0e1530;border-bottom:1px solid rgba(255,255,255,.06);}
+.brand{font-weight:800;letter-spacing:.2px;}
+.links a{color:var(--muted);text-decoration:none;margin-left:14px;}
+.links a:hover{color:var(--text);}
+.container{max-width:980px;margin:24px auto;padding:0 14px;}
+.card{background:var(--card);border:1px solid rgba(255,255,255,.07);border-radius:16px;padding:18px;box-shadow:0 10px 30px rgba(0,0,0,.25);}
+.grid{display:grid;grid-template-columns:1fr;gap:16px;}
+@media(min-width:860px){.grid{grid-template-columns:1fr 1fr;}}
+label{display:block;margin-top:10px;color:var(--muted);}
+input,select{width:100%;margin-top:6px;padding:12px 12px;border-radius:12px;border:1px solid rgba(255,255,255,.10);background:#0c1330;color:var(--text);}
+input:focus,select:focus{outline:2px solid rgba(110,168,254,.35);}
+.btn{margin-top:14px;display:inline-block;background:var(--accent);color:#0a0f1f;padding:10px 14px;border:none;border-radius:12px;font-weight:800;cursor:pointer;text-decoration:none;}
+.btn.secondary{background:#273158;color:var(--text);}
+.row{display:flex;gap:10px;flex-wrap:wrap;}
+.alerts{margin-bottom:12px;}
+.alert{padding:10px 12px;border-radius:12px;margin-bottom:8px;border:1px solid rgba(255,255,255,.08);}
+.alert.error{background:rgba(255,107,107,.12);color:#ffd2d2;}
+.alert.success{background:rgba(81,207,102,.12);color:#d9ffe1;}
+.muted{color:var(--muted);}
+.small{font-size:13px;}
+.big-word{margin:16px 0;padding:14px 16px;border-radius:14px;background:#0c1330;border:1px solid rgba(255,255,255,.08);font-size:26px;font-weight:900;}
+.stats{display:flex;gap:12px;margin-top:10px;flex-wrap:wrap;}
+.stat{background:#0c1330;border:1px solid rgba(255,255,255,.08);border-radius:14px;padding:12px 14px;min-width:140px;}
+.stat-num{font-size:22px;font-weight:900;}
+.stat-label{color:var(--muted);font-size:13px;}
+.chart{width:100%;border-radius:14px;border:1px solid rgba(255,255,255,.08);background:#0c1330;}
+.checkbox{display:flex;align-items:center;gap:10px;margin-top:10px;color:var(--muted);}
+.checkbox input{width:auto;margin:0;}
